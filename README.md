@@ -1,8 +1,6 @@
 # Heart-Disease-Prediction
 Predicting heart disease using machine learning with comprehensive data analysis and visualization.
 
-# Heart Disease Prediction
-
 ## Overview
 
 This project aims to predict the presence of heart disease in patients using a variety of features provided in a dataset. The analysis includes data preprocessing, exploratory data analysis (EDA), and application of machine learning models to achieve accurate predictions.
