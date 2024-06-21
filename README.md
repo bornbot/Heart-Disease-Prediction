@@ -120,6 +120,10 @@ print(classification_report(y_test, predictions))
 ## Conclusion
 This project demonstrates the process of predicting heart disease using data science techniques, from data preprocessing and EDA to model training and evaluation. The results highlight the importance of feature selection and model choice in achieving accurate predictions.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 ## Acknowledgements
 This project uses a publicly available dataset and builds upon standard data science and machine learning practices. Special thanks to the data providers and the open-source community.
 
